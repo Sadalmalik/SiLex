@@ -1,3 +1,5 @@
+# I use current project just for learning how use GitHub
+
 # This is just for tests
 
 ## 1
@@ -16,7 +18,7 @@ public void OKAY_FUNC( int a )
     }
 public int ITS_NOT_OKAY()
 	{
-	// here tabs
+	// here tabs // upd: no difference, that's good!
 	return(0);
 	}
 ```
