@@ -1,15 +1,15 @@
 # I use current project just for learning how use GitHub
-
--
 ---
---
-
-## 1
-# # 2
-* 1
-** 2
-
+#head
+##head
+###head
+####head
+#####head
+######head
+---
 Something text here
+
+~text~
 
 ~~Another text here~~
 
@@ -33,3 +33,18 @@ public int ITS_NOT_OKAY()
 - [x] test this string
 - [y] test incorrect string for some lulz
 - [ ] okay, done!
+
+* another list
+* ok, it's works
+* [x] and this too
+* [ ] and thiiiis toooo
+* 
+
+'
+''
+'''
+
+'a'
+"a"
+
+refer: https://github.com/
