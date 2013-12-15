@@ -1,6 +1,8 @@
 # I use current project just for learning how use GitHub
 
-# This is just for tests
+-
+---
+--
 
 ## 1
 # # 2
@@ -22,3 +24,12 @@ public int ITS_NOT_OKAY()
 	return(0);
 	}
 ```
+
+- [x] do some project
+- [x] update some project
+- [x] add some history to some project
+- [ ] update again
+- [ ] do nothing here
+- [x] test this string
+- [y] test incorrect string for some lulz
+- [ ] okay, done!
