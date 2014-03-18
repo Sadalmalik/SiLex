@@ -1,50 +1,15 @@
-# I use current project just for learning how use GitHub
----
-#head
-##head
-###head
-####head
-#####head
-######head
----
-Something text here
+##This is a very simple lexer :3
 
-~text~
-
-~~Another text here~~
-
+You can use it as followse:
 ```java
-public void OKAY_FUNC( int a )
-    {
-    // here spaces
-    }
-public int ITS_NOT_OKAY()
+TokenInputStream TINP = new TokenInputStream( new StringInput(text) );
+...
+Token T;
+while( (T = TINP.next())!=null )
 	{
-	// here tabs // upd: no difference, that's good!
-	return(0);
+	//	Do something woth token T
 	}
 ```
 
-- [x] do some project
-- [x] update some project
-- [x] add some history to some project
-- [ ] update again
-- [ ] do nothing here
-- [x] test this string
-- [y] test incorrect string for some lulz
-- [ ] okay, done!
-
-* another list
-* ok, it's works
-* [x] and this too
-* [ ] and thiiiis toooo
-* 
-
-'
-''
-'''
-
-'a'
-"a"
-
-refer: https://github.com/
+license?
+Absolutely free!
