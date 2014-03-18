@@ -2,7 +2,7 @@
 
 You can use it as followse:
 ```java
-TokenInputStream TINP = new TokenInputStream( new StringInput(text) );
+TokenInputStream TINP = new TokenInputStream( /** some input stream here **/ );
 ...
 Token T;
 while( (T = TINP.next())!=null )
